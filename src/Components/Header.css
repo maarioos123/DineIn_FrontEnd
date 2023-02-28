@@ -1,0 +1,29 @@
+.img-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icon-cart {
+    width: 40px;
+    height: 40px;
+}
+
+.restaurant-card {
+    width: auto;
+    height: auto;
+    background-color: lightgray;
+}
+
+.counter {
+    background: #9e3700;
+    font-size: 20px;
+}
